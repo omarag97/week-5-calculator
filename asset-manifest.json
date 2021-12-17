@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omarag97/week-5-calculator/static/css/main.d0a86fc1.css",
+    "main.js": "/omarag97/week-5-calculator/static/js/main.169fb57b.js",
+    "index.html": "/omarag97/week-5-calculator/index.html",
+    "main.d0a86fc1.css.map": "/omarag97/week-5-calculator/static/css/main.d0a86fc1.css.map",
+    "main.169fb57b.js.map": "/omarag97/week-5-calculator/static/js/main.169fb57b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a86fc1.css",
+    "static/js/main.169fb57b.js"
+  ]
+}
